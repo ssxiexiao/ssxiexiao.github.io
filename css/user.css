@@ -7,14 +7,26 @@
 }
 .paper .info {
   flex-grow: 1;
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: flex-start;
 }
 .paper .info p {
+  display: flex;
+  flex-flow: column nowrap;
   margin: 0;
 }
-.paper .info p span {
-  cursor: pointer;
+.paper .info p span.title {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.paper .info p span.author {
+  font-size: 1em;
+  color: #2c3e50;
+}
+.paper .info p span.journal {
+  font-size: 1em;
+  color: #7f7f7f;
+}
+.paper .info p span.note {
+  font-size: 0.8em;
+  color: #7f7f7f;
+  font-weight: 300;
 }
