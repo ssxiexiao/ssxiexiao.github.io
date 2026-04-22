@@ -1,0 +1,400 @@
+{
+  "profile": {
+    "name": "Xiao Xie",
+    "role": "Assistant Professor",
+    "affiliation": "Department of Sports Science, Zhejiang University",
+    "email": "xxie@zju.edu.cn",
+    "dblp_pid": "66/2411",
+    "summary": "I work on data visualization and human-computer interaction, with a current focus on the visual analytics of sports data.",
+    "bio": [
+      "My research interests are Data Visualization and Human-computer interaction, with a focus on the visual analytics of sports data. Currently, I am a tenure-track assistant professor at the Department of Sports Science, Zhejiang University.",
+      "I received my Ph.D. in Computer Science from Zhejiang University in 2020, where I worked with Prof. Yingcai Wu and the Interactive Data Group. Prior to that, I received my B.S. in Software Engineering from Sun Yat-sen University in 2015."
+    ],
+    "links": [
+      {
+        "label": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=BWTjWioAAAAJ&hl=zh-TW"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:xxie@zju.edu.cn"
+      },
+      {
+        "label": "CV",
+        "href": "attaches/CV.pdf"
+      }
+    ]
+  },
+  "papers": [
+    {
+      "title": "InsightChaser: Enhancing Visual Reasoning of Sports Tactical Visualization with Visual-Text Linking",
+      "authors": "Ziao Liu, Wenshuo Zhao, Xiao Xie, Anqi Cao, Yihong Wu, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (TVCG 2026)",
+      "year": 2026,
+      "image": "images/insightchaser.png",
+      "pdf": "papers/insightchaser.pdf",
+      "dblp_order": 2,
+      "dblp": "https://dblp.org/rec/journals/tvcg/LiuZXCWZW26.html"
+    },
+    {
+      "title": "T3Set: A Multimodal Dataset with Targeted Suggestions for LLM-based Virtual Coach in Table Tennis Training",
+      "authors": "Ji Ma, Jiale Wu, Haoyu Wang, Yanze Zhang, Xiao Xie, Zheng Zhou, Hui Zhang, Jiachen Wang, and Yingcai Wu",
+      "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)",
+      "year": 2025,
+      "image": "images/t3set.png",
+      "pdf": "papers/t3set.pdf",
+      "dblp_order": 16,
+      "dblp": "https://dblp.org/rec/conf/kdd/MaWWZXZ00W25.html"
+    },
+    {
+      "title": "From Sports Videos to Immersive Training: Augmenting Human Motion to Enrich Basketball Training Experience",
+      "authors": "Yihong Wu, Xiao Xie, Lingyun Yu, Xinyi Ruan, Runzhou Li, Liqi Cheng, Shuainan Ye, Dazhen Deng, Hui Zhang, and Yingcai Wu",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST 2025)",
+      "year": 2025,
+      "image": "images/sportsvideos.png",
+      "pdf": "papers/sportsvideos.pdf",
+      "dblp_order": 18,
+      "dblp": "https://dblp.org/rec/conf/uist/0003X0RLCYD0W25.html"
+    },
+    {
+      "title": "VisMimic: Integrating Motion Chain in Feedback Video Generation for Motor Coaching",
+      "authors": "Liqi Cheng, Xiao Xie, Yiwei Peng, Minghao Feng, Yuchen He, Anqi Cao, Yihong Wu, Hui Zhang, and Yingcai Wu",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST 2025)",
+      "year": 2025,
+      "image": "images/vismimic.png",
+      "pdf": "papers/vismimic.pdf",
+      "dblp_order": 19,
+      "dblp": "https://dblp.org/rec/conf/uist/ChengXPFHC0ZW25.html"
+    },
+    {
+      "title": "Smartboard: Visual Exploration of Team Tactics with LLM Agent",
+      "authors": "Ziao Liu, Xiao Xie*, Moqi He, Wenshuo Zhao, Yihong Wu, Liqi Cheng, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
+      "year": 2025,
+      "image": "images/smartboard.png",
+      "pdf": "papers/smartboard.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 11,
+      "dblp": "https://dblp.org/rec/journals/tvcg/LiuXHZWCZW25.html"
+    },
+    {
+      "title": "Team-Scouter: Simulative Visual Analytics of Soccer Player Scouting",
+      "authors": "Anqi Cao, Xiao Xie*, Runjin Zhang, Yuxin Tian, Mu Fan, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2024)",
+      "year": 2025,
+      "image": "images/teamscouter.png",
+      "pdf": "papers/teamscouter.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 10,
+      "dblp": "https://dblp.org/rec/journals/tvcg/CaoXZTFZW25.html"
+    },
+    {
+      "title": "VisCourt: In-Situ Guidance for Interactive Tactic Training in Mixed Reality",
+      "authors": "Liqi Cheng, Hanze Jia, Lingyun Yu, Yihong Wu, Shuainan Ye, Dazhen Deng, Hui Zhang, Xiao Xie*, and Yingcai Wu",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST 2024)",
+      "year": 2024,
+      "image": "images/viscourt.png",
+      "pdf": "papers/viscourt.pdf",
+      "dblp_venue": "UIST",
+      "dblp_order": 33,
+      "dblp": "https://dblp.org/rec/conf/uist/ChengJ00YDZXW24.html"
+    },
+    {
+      "title": "SNIL: Generating Sports News From Insights With Large Language Models",
+      "authors": "Liqi Cheng, Dazhen Deng, Xiao Xie, Rihong Qiu, Mingliang Xu, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (2024)",
+      "year": 2025,
+      "image": "images/snil.png",
+      "pdf": "papers/snil.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 12,
+      "dblp": "https://dblp.org/rec/journals/tvcg/ChengDXQXW25.html"
+    },
+    {
+      "title": "VolleyNaut: Pioneering Immersive Training for Inclusive Sitting Volleyball Skill Development",
+      "authors": "Ut Gong, Hanze Jia, Yujie Wang, Tan Tang*, Xiao Xie*, and Yingcai Wu",
+      "venue": "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2024)",
+      "year": 2024,
+      "image": "images/volleynaut.png",
+      "pdf": "papers/volleynaut.pdf",
+      "dblp_venue": "VR",
+      "dblp_order": 34,
+      "dblp": "https://dblp.org/rec/conf/vr/GongJWTXW24.html"
+    },
+    {
+      "title": "TacPrint: Visualizing the Biomechanical Fingerprint in Table Tennis",
+      "authors": "Jiachen Wang, Ji Ma, Zheng Zhou, Xiao Xie*, Hui Zhang, Yingcai Wu, and Huamin Qu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE Pacific Visualization 2024)",
+      "year": 2024,
+      "image": "images/TacPrint.png",
+      "pdf": "papers/tacprint.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 30,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WangMZXZWQ24.html"
+    },
+    {
+      "title": "AR-Enhanced Workouts: Exploring Visual Cues for At-Home Workout Videos in AR Environment",
+      "authors": "Yihong Wu, Lingyun Yu, Jie Xu, Dazhen Deng, Jiachen Wang, Xiao Xie*, Hui Zhang, and Yingcai Wu",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST 2023)",
+      "year": 2023,
+      "image": "images/Wu-uist23.png",
+      "pdf": "papers/Wu-uist23.pdf",
+      "dblp_venue": "UIST",
+      "dblp_order": 46,
+      "dblp": "https://dblp.org/rec/conf/uist/Wu0XDWXZW23.html"
+    },
+    {
+      "title": "Causality-Based Visual Analysis of Questionnaire Responses",
+      "authors": "Renzhong Li, Weiwei Cui, Tianqi Song, Xiao Xie*, Rui Ding, Yun Wang, Haidong Zhang, Hong Zhou, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2023)",
+      "year": 2024,
+      "image": "images/Li-tvcg23.png",
+      "pdf": "papers/Li-tvcg23.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 28,
+      "dblp": "https://dblp.org/rec/journals/tvcg/LiCSXDWZZW24.html"
+    },
+    {
+      "title": "Action-Evaluator: A Visualization Approach for Player Action Evaluation in Soccer",
+      "authors": "Anqi Cao, Xiao Xie*, Mingxu Zhou, Hui Zhang, Mingliang Xu, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2023)",
+      "year": 2024,
+      "image": "images/Action-Evaluator.png",
+      "pdf": "papers/Action-Evaluator.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 29,
+      "dblp": "https://dblp.org/rec/journals/tvcg/CaoXZZXW24.html"
+    },
+    {
+      "title": "MediVizor: Visual Mediation Analysis of Nominal Variables",
+      "authors": "Ji Lan, Zheng Zhou, Xiao Xie, Yanhong Wu, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics 2023",
+      "year": 2024,
+      "image": "images/MediVizor.png",
+      "pdf": "papers/MediVizor.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 32,
+      "dblp": "https://dblp.org/rec/journals/tvcg/LanZXWZW24.html"
+    },
+    {
+      "title": "Multilevel Visual Analysis of Aggregate Geo-Networks",
+      "authors": "Zikun Deng, Shifu Chen, Xiao Xie, Guodao Sun, Mingliang Xu, Di Weng, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics 2023",
+      "year": 2024,
+      "image": "images/Deng-tvcg23.png",
+      "pdf": "papers/Deng-tvcg23.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 31,
+      "dblp": "https://dblp.org/rec/journals/tvcg/DengCXSXWW24.html"
+    },
+    {
+      "title": "OBTracker: Visual Analytics of Off-ball Movements in Basketball",
+      "authors": "Yihong Wu, Dazhen Deng, Xiao Xie*, Moqi He, Jie Xu, Hongzeng Zhang, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2022, Honorable Mention)",
+      "year": 2023,
+      "image": "images/OBTracker.png",
+      "pdf": "papers/OBTracker.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 41,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WuDXHXZZW23.html"
+    },
+    {
+      "title": "Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training",
+      "authors": "Jiachen Wang, Ji Ma, Kangping Hu, Zheng Zhou, Hui Zhang, Xiao Xie*, Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2022)",
+      "year": 2023,
+      "image": "images/TacTrainer.png",
+      "pdf": "papers/TacTrainer.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 42,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WangMHZZXW23.html"
+    },
+    {
+      "title": "Sporthesia: Augmenting Sports Videos Using Natural Language",
+      "authors": "Zhutian Chen, Qisen Yang, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Proceedings of IEEE VIS 2022)",
+      "year": 2022,
+      "image": "images/Sporthesia.png",
+      "pdf": "papers/Sporthesia.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 55,
+      "dblp": "https://dblp.org/rec/journals/corr/abs-2209-03434.html"
+    },
+    {
+      "title": "Team-Builder: Toward More Effective Lineup Selection in Soccer",
+      "authors": "Anqi Cao, Ji Lan, Xiao Xie*, Hongyu Chen, Xiaolong Zhang, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2023,
+      "image": "images/TeamBuilder.png",
+      "pdf": "papers/TeamBuilder.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 44,
+      "dblp": "https://dblp.org/rec/journals/tvcg/CaoLXCZZW23.html"
+    },
+    {
+      "title": "SimuExplorer: Visual Exploration of Game Simulation in Table Tennis",
+      "authors": "Ji Lan, Zheng Zhou, Jiachen Wang, Hui Zhang, Xiao Xie, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2023,
+      "image": "images/SimuExplorer.png",
+      "pdf": "papers/SimuExplorer.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 43,
+      "dblp": "https://dblp.org/rec/journals/tvcg/LanZWZXW23.html"
+    },
+    {
+      "title": "Compass: Towards Better Causal Analysis of Urban Time Series",
+      "authors": "Zikun Deng, Di Weng, Xiao Xie, Jie Bao, Yu Zheng, Mingliang Xu, Wei Chen, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+      "year": 2022,
+      "image": "images/compass.png",
+      "pdf": "papers/compass.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 54,
+      "dblp": "https://dblp.org/rec/journals/tvcg/DengWXBZXCW22.html"
+    },
+    {
+      "title": "TIVEE: Visual Exploration and Explanation of Badminton Tactics in Immersive Visualizations",
+      "authors": "Xiangtong Chu, Xiao Xie, Shuainan Ye, Haolin Lu, Hongguang Xiao, Zeqing Yuan, Zhutian Chen, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+      "year": 2022,
+      "image": "images/TIVEE.png",
+      "pdf": "papers/TIVEE.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 51,
+      "dblp": "https://dblp.org/rec/journals/tvcg/ChuXYLXYCZW22.html"
+    },
+    {
+      "title": "GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs",
+      "authors": "Lu Ying, Tan Tang, Luzhe Luo, Lvkeshen Shen, Xiao Xie, Lingyun Yu, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+      "year": 2022,
+      "image": "images/glyphcreator.png",
+      "pdf": "papers/GlyphCreator.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 52,
+      "dblp": "https://dblp.org/rec/journals/tvcg/YingTLSXYW22.html"
+    },
+    {
+      "title": "Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers",
+      "authors": "Yifang Wang, Tai-Quan Peng, Huihua Lu, Haoren Wang, Xiao Xie, Huamin Qu, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2021)",
+      "year": 2021,
+      "image": "images/ssuccess.png",
+      "pdf": "papers/acseeker.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 67,
+      "dblp": "https://dblp.org/rec/journals/corr/abs-2108-03381.html"
+    },
+    {
+      "title": "Tac-Valuer: Knowledge-based Stroke Evaluation in Table Tennis",
+      "authors": "Jiachen Wang, Dazhen Deng, Xiao Xie, Xinhuan Shu, Yu-Xuan Huang, Le-Wen Cai, Hui Zhang, Min-Ling Zhang, Zhi-Hua Zhou, and Yingcai Wu",
+      "venue": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining, 2021",
+      "year": 2021,
+      "image": "images/tacvaluer.png",
+      "pdf": "papers/tacValuer.pdf",
+      "dblp_venue": "KDD",
+      "dblp_order": 64,
+      "dblp": "https://dblp.org/rec/conf/kdd/WangDXSHCZZZW21.html"
+    },
+    {
+      "title": "EventAnchor: Reducing Human Interactions in Event Annotation of Racket Sports Videos",
+      "authors": "Dazhen Deng, Jiang Wu, Jiachen Wang, Yihong Wu, Xiao Xie, Zheng Zhou, Hui Zhang, Xiaolong (Luke) Zhang, and Yingcai Wu",
+      "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2021",
+      "year": 2021,
+      "image": "images/eventanchor.png",
+      "pdf": "papers/eventanchor.pdf",
+      "dblp_venue": "CHI",
+      "dblp_order": 65,
+      "dblp": "https://dblp.org/rec/journals/corr/abs-2101-04954.html"
+    },
+    {
+      "title": "PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes",
+      "authors": "Xiao Xie, Jiachen Wang, Hongye Liang, Dazhen Deng, Shoubin Cheng, Hui Zhang, Wei Chen, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
+      "year": 2020,
+      "image": "images/passvizor.png",
+      "pdf": "papers/passvizor.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 75,
+      "dblp": "https://dblp.org/rec/journals/corr/abs-2009-02464.html"
+    },
+    {
+      "title": "A Visual Analytics Approach for Exploratory Causal Analysis: Exploration, Validation, and Applications",
+      "authors": "Xiao Xie, Fan Du, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2020)",
+      "year": 2020,
+      "image": "images/causalexplorer.png",
+      "pdf": "papers/causalexplorer.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 74,
+      "dblp": "https://dblp.org/rec/journals/corr/abs-2009-02458.html"
+    },
+    {
+      "title": "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis",
+      "authors": "Jiachen Wang, Kejian Zhao, Dazhen Deng, Anqi Cao, Xiao Xie, Zheng Zhou, Hui Zhang, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2019)",
+      "year": 2020,
+      "image": "images/tacsimur.png",
+      "pdf": "papers/tacsimur.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 72,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WangZDCXZZW20.html"
+    },
+    {
+      "title": "Visual Analytics of Dynamic Interplay Between Behaviors in MMORPGs",
+      "authors": "Junhua Lu, Xiao Xie, Ji Lan, Tai-Quan Peng, Wei Chen, and Yingcai Wu",
+      "venue": "Proceedings of IEEE Pacific Visualization Symposium, 2019",
+      "year": 2019,
+      "image": "images/bexplorer.png",
+      "pdf": "papers/bexplorer.pdf",
+      "dblp_venue": "PacificVis",
+      "dblp_order": 81,
+      "dblp": "https://dblp.org/rec/conf/apvis/LuXLP0W19.html"
+    },
+    {
+      "title": "ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer",
+      "authors": "Yingcai Wu, Xiao Xie, Jiachen Wang, Dazhen Deng, Hongye Liang, Hui Zhang, Shoubin Cheng, and Wei Chen",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (IEEE VAST 2018)",
+      "year": 2019,
+      "image": "images/forvizor.png",
+      "pdf": "papers/forvizor.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 78,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WuXWDLZCC19.html"
+    },
+    {
+      "title": "A Semantic-based Method for Visualizing Large Image Collections",
+      "authors": "Xiao Xie, Xiwen Cai, Junpei Zhou, Nan Cao, and Yingcai Wu",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (2018)",
+      "year": 2019,
+      "image": "images/imgvis.png",
+      "pdf": "papers/imgvis.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 79,
+      "dblp": "https://dblp.org/rec/journals/tvcg/XieCZCW19.html"
+    },
+    {
+      "title": "StreamExplorer: A Multi-Stage System for Visually Exploring Events in Social Streams",
+      "authors": "Yingcai Wu, Zhutian Chen, Guodao Sun, Xiao Xie, Nan Cao, Shixia Liu, and Weiwei Cui",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (2018)",
+      "year": 2018,
+      "image": "images/streamexplorer.png",
+      "pdf": "papers/streamexplorer.pdf",
+      "dblp_venue": "IEEE Trans. Vis. Comput. Graph.",
+      "dblp_order": 88,
+      "dblp": "https://dblp.org/rec/journals/tvcg/WuCSXCLC18.html"
+    },
+    {
+      "title": "A Study of the Effect of Doughnut Chart Parameters on Proportion Estimation Accuracy",
+      "authors": "Xiwen Cai, Konstantinos Efstathiou, Xiao Xie, Yingcai Wu, Yan Shi, and Lingyun Yu",
+      "venue": "Computer Graphics Forum (2018)",
+      "year": 2018,
+      "image": "images/donout.png",
+      "pdf": "papers/donutchart.pdf",
+      "dblp_venue": "Comput. Graph. Forum",
+      "dblp_order": 84,
+      "dblp": "https://dblp.org/rec/journals/cgf/CaiEXWSY18.html"
+    }
+  ]
+}

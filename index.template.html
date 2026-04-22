@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  <title>${site_title}</title>
+  <meta name="author" content="${author}">
+  <meta name="description" content="${description}">
+  <link rel="shortcut icon" href="img/favicon.png">
+  <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/user.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css">
+</head>
+<body>
+  <main id="page_main">
+    <div class="page page-full" itemscope itemtype="http://schema.org/CreativeWork">
+      <article>
+        <section class="profile-hero" itemscope itemtype="http://schema.org/Person">
+          <div class="author-avatar">
+            <img class="avatar-img" src="${avatar}" onerror="this.onerror=null;this.src='img/profile.png'" alt="avatar">
+          </div>
+          <div class="profile-main">
+            <div class="author-discrip">
+              <h3>${author}</h3>
+              <p class="author-bio">${role}</p>
+            </div>
+            <div class="profile-summary">
+${bio_paragraphs}
+              <p>Contact: <a href="mailto:${email}">${email}</a></p>
+            </div>
+          </div>
+          <div class="author-links">
+            <ul class="social-links">
+${social_links}
+            </ul>
+          </div>
+        </section>
+
+        <h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2>
+
+        <div class="paper-list">
+${publications}
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <footer id="page_footer">
+    <div class="footer_wrap">
+      <div class="copyright">${copyright}</div>
+      <div class="theme-info">Static homepage generated from structured metadata.</div>
+    </div>
+  </footer>
+</body>
+</html>
